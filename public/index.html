@@ -111,7 +111,7 @@
 
       var searchPage = function(elem, index, array){
         var self = this;
-        var apiPath = 'http://192.168.56.101:3000/search/?mount=';
+        var apiPath = '/search/?mount=';
         setTimeout(function(){
           $.getJSON(apiPath + elem.code, {} , function(data){
             var imgSrc = $(data).filter('td').eq(self.day - 1).find('img').attr('src').match(".+/(.+?)([\?#;].*)?$")[1];
