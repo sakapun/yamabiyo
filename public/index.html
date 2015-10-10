@@ -86,7 +86,7 @@
         <script type="text/javascript">
         (function(){
           mtArr.forEach(function(elem, index, array){
-            document.write("<div class='col-md-2 col-sm-4  col-xs-4 "+ elem.code + "'><p class='text-center'>"+ elem.name +"</p><div class='text-center div-round'><p><img alt='' class='weather' src='/img/base_mountain.png' data-holder-rendered='true'></p></div></div>");
+            document.write("<div class='col-md-2 col-sm-4  col-xs-4 "+ elem.code + "'><p class='text-center'>"+ elem.name +"<a href='" + elem.url +"' target='_blank'><span class='glyphicon glyphicon-share glyph-link'></span></a></p><div class='text-center div-round'><p><img alt='' class='weather' src='/img/base_mountain.png' data-holder-rendered='true'></p></div></div>");
           });
         })();
         </script>
@@ -103,7 +103,7 @@
       var today = new Date();
       $('#dp1').datepicker({
           format: 'mm月dd日',
-          startDate: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 2),
+          startDate: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1),
           endDate: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 6),
           language: 'ja',
           orientation: "bottom auto"
@@ -112,9 +112,10 @@
       var searchPage = function(elem, index, array){
         var self = this;
         var apiPath = '/search/?mount=';
+        var geteq = self.day === 1 ? 0 : self.day ;
         setTimeout(function(){
-          $.getJSON(apiPath + elem.code, {} , function(data){
-            var imgSrc = $(data).filter('td').eq(self.day - 1).find('img').attr('src').match(".+/(.+?)([\?#;].*)?$")[1];
+          $.get(apiPath + elem.code, {} , function(data){
+            var imgSrc = $(data).filter('td').eq(geteq).find('img').attr('src').match(".+/(.+?)([\?#;].*)?$")[1];
             $('.' + elem.code).find('img.weather').attr('src', '/img/' + imgSrc).show();
             if(array.length -1 === index){
              ajaxLock = false;

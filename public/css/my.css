@@ -43,3 +43,8 @@
     url("/img/mnt2.gif"),
     url("/img/mnt3.gif")    ;
 }
+
+.glyph-link{
+  font-size: 0.5em;
+  margin-left: 3px;
+}
