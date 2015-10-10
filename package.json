@@ -1,0 +1,23 @@
+{
+  "name": "yama",
+  "version": "1.0.0",
+  "description": "yama",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sakapun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakapun/yama/issues"
+  },
+  "homepage": "https://github.com/sakapun/yama#readme",
+  "dependencies": {
+    "cheerio-httpcli": "*",
+    "express": "4"
+  },
+  "engines": {
+    "node": "0.10.40",
+    "npm": "2.14.1"
+  }
+}

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.jumbotron.special{
+  background-image: url("/img/yama_min.jpg");
+  background-size: cover;
+  height :588px;
+  margin-bottom: 0px;
+  padding-top: 80px;
+}
+
+
+
+.background-section{
+	background-color: #eaf3f8;
+	padding-top: 40px;
+}
+
+.div-round{
+	width: 100px;
+	height: 100px;
+    background: #cccccc;
+    display: table;
+    border-radius: 50%;
+    margin: auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    margin-bottom: 40px;
+}
+.div-round > * {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.first_hide{
+  display: none;
+}
+
+#preload{
+  visibility: hidden;
+  display: none;
+  background-image: 
+    url("/img/loading.gif"),
+    url("/img/mnt1.gif"),
+    url("/img/mnt2.gif"),
+    url("/img/mnt3.gif")    ;
+}

@@ -1,0 +1,2001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sea",
+				"searchDay"
+			],
+			[
+				"ser",
+				"searchDay"
+			],
+			[
+				"date",
+				"dateSearch"
+			],
+			[
+				"back",
+				"background-origin"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"gm",
+				"gmailauth"
+			],
+			[
+				"ge",
+				"generator"
+			],
+			[
+				"res",
+				"res_index"
+			],
+			[
+				"count",
+				"counted"
+			],
+			[
+				"end",
+				"endWhere"
+			],
+			[
+				"star",
+				"startWhere"
+			],
+			[
+				"sa",
+				"start_date_formated"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"emi",
+				"emit_from_server"
+			],
+			[
+				"cs",
+				"csrf"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"mb",
+				"mb_convert_kana"
+			],
+			[
+				"in",
+				"intAmount"
+			],
+			[
+				"ar",
+				"arAmount"
+			],
+			[
+				"impor",
+				"importFormSession"
+			],
+			[
+				"J_shop",
+				"J_shop_staff"
+			],
+			[
+				"required",
+				"required_error"
+			],
+			[
+				"mode",
+				"mode"
+			],
+			[
+				"requ",
+				"request_vars"
+			],
+			[
+				"reload",
+				"reloadCheck"
+			],
+			[
+				"reloadCh",
+				"reloadChecker"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"sub",
+				"submitBt"
+			],
+			[
+				"st",
+				"strSql"
+			],
+			[
+				"wile",
+				"while	while …"
+			],
+			[
+				"s",
+				"stdin"
+			],
+			[
+				"line",
+				"lineb"
+			],
+			[
+				"mypage",
+				"mypage_tweet_mobi"
+			],
+			[
+				"return",
+				"returnPage"
+			],
+			[
+				"isi",
+				"is_integer"
+			],
+			[
+				"mypage_",
+				"mypage_tweet_res_list"
+			],
+			[
+				"fro",
+				"fromPage"
+			],
+			[
+				"my",
+				"mypage_tweet"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"mbc",
+				"mb_convert_encoding"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"bad",
+				"baduser_form"
+			],
+			[
+				"getpa",
+				"getPageMobF"
+			],
+			[
+				"cn",
+				"retAllCnt"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"all",
+				"allCntNum"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"sayw",
+				"sayWorld"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tri",
+				"trigger_error"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"img",
+				"imgsec"
+			],
+			[
+				"click",
+				"clickPos"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"mypa",
+				"mypage_notify_popup_close"
+			],
+			[
+				"aar",
+				"arFav"
+			],
+			[
+				"parse",
+				"parseParam"
+			],
+			[
+				"sql",
+				"sqlColumn"
+			],
+			[
+				"base",
+				"baseHeight"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"pa",
+				"parent_twid"
+			],
+			[
+				"F_",
+				"F_user_document_id"
+			],
+			[
+				"Tw_MMM",
+				"Tw_MMM_secret_tweet"
+			],
+			[
+				"member",
+				"member_mail_address"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"unrea",
+				"unreadIds"
+			],
+			[
+				"getre",
+				"getRes"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"unre",
+				"unreadTweetIcon"
+			],
+			[
+				"pare",
+				"parentId"
+			],
+			[
+				"tw",
+				"tw_ids"
+			],
+			[
+				"parent",
+				"F_parent_tweet_id"
+			],
+			[
+				"blog",
+				"blog_regist_datetime"
+			],
+			[
+				"use",
+				"userStaffId"
+			],
+			[
+				"user",
+				"userStaffId"
+			],
+			[
+				"Comm",
+				"Community_User_Relation"
+			],
+			[
+				"popup",
+				"popup_wrap"
+			],
+			[
+				"dis",
+				"disable_bot_class"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"shop",
+				"shopstaff_id"
+			],
+			[
+				"artw",
+				"arTw_Read_member"
+			],
+			[
+				"toi",
+				"to_uid"
+			],
+			[
+				"arTw",
+				"arTw_Read_member"
+			],
+			[
+				"obj",
+				"objParentTweet"
+			],
+			[
+				"paren",
+				"parent_twid"
+			],
+			[
+				"str",
+				"strWhere"
+			],
+			[
+				"twid",
+				"tw_ids"
+			],
+			[
+				"ojb",
+				"objTw_read"
+			],
+			[
+				"objte",
+				"objTw_Read"
+			],
+			[
+				"del",
+				"delId"
+			],
+			[
+				"RP",
+				"RP2_to_user_id"
+			],
+			[
+				"disab",
+				"disable_bot_class"
+			],
+			[
+				"P_",
+				"P_secret_tweet_id"
+			],
+			[
+				"new",
+				"newElem"
+			],
+			[
+				"twi",
+				"twid"
+			],
+			[
+				"objM_",
+				"objM_blog"
+			],
+			[
+				"this",
+				"thisId"
+			],
+			[
+				"mmem",
+				"M_member"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"form",
+				"form_obj"
+			],
+			[
+				"Tw",
+				"Tw_T_read_tweet"
+			],
+			[
+				"staf",
+				"staff_user_id"
+			],
+			[
+				"staff",
+				"staff_password"
+			],
+			[
+				"objM",
+				"objM_staff-"
+			],
+			[
+				"P_s",
+				"P_shop_staff_id"
+			],
+			[
+				"shopid",
+				"shop_staff_id"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"offse",
+				"offsetSQL"
+			],
+			[
+				"Comu",
+				"Community_User_Relation"
+			],
+			[
+				"field",
+				"fieldId"
+			],
+			[
+				"okini",
+				"okiniCountChange"
+			],
+			[
+				"user_rela",
+				"user_relation_regist_datetime"
+			],
+			[
+				"Com",
+				"Community_User"
+			],
+			[
+				"RP2",
+				"RP2_to_user_id"
+			],
+			[
+				"mem",
+				"member_login_datetime"
+			],
+			[
+				"sort",
+				"sortCondition"
+			],
+			[
+				"Community_",
+				"Community_User"
+			],
+			[
+				"RP1",
+				"RP1_from_user_id"
+			],
+			[
+				"to",
+				"to_id"
+			],
+			[
+				"from",
+				"from_id"
+			],
+			[
+				"scrip",
+				"script_parts"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/my.css",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 165168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/data/vm/share/app/yama/app.js",
+			"settings":
+			{
+				"buffer_size": 242,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/data/vm/share/app/yama/package.json",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 198.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"mar",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"previ",
+				"Markdown HTML Preview"
+			],
+			[
+				"prev",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Base Encoding: Base64 Decode Selection(s)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Next"
+			],
+			[
+				"bookma",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pacge",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"update ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: rm ",
+				"Package Control: Remove Package"
+			],
+			[
+				"re pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"set table",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"ma",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"rm pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"map",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mach",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"instala",
+				"Package Control: Install Package"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"bra ",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"sql fo",
+				"FormatSQL: Format SQL statement"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			" import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/さかぷん/Downloads/familystone_db3.sql.gz",
+		"/C/Users/さかぷん/Downloads/familystone_w.sql.gz",
+		"/C/Users/さかぷん/Downloads/familystone_all.sql.gz",
+		"/C/Users/さかぷん/Downloads/familystone_all.sql",
+		"/C/Users/さかぷん/AppData/Local/Temp/localhost.sql",
+		"/C/data/yama/index.php",
+		"/C/data/yama/bootstrap.html",
+		"/C/data/yama/css/my.css",
+		"/C/data/yama/index.html",
+		"/C/data/vm/share/app/motivationup/package.json",
+		"/C/data/vm/share/app/motivationup/app.js",
+		"/C/data/vm/share/app/motivationup/node_modules/nodemailer/node_modules/nodemailer-smtp-transport/node_modules/smtp-connection/src/smtp-connection.js",
+		"/C/data/vm/share/app/motivationup/node_modules/instagram-node/node_modules/fwk/lib/base.js",
+		"/C/data/vm/share/app/motivationup/aws.js",
+		"/C/data/作業/八海山の天気 - てんきとくらす [天気と生活情報].html",
+		"/C/data/vm/share/app/motivationup/node_modules/nodemailer/node_modules/nodemailer-direct-transport/node_modules/smtp-connection/package.json",
+		"/C/data/vm/share/app/motivationup/gmail.js",
+		"/C/data/vm/share/app/motivationup/mydynamo.js",
+		"/C/data/vm/share/app/motivationup/node_modules/instagram-node/node_modules/fwk/lib/cfg.js",
+		"/C/data/vm/share/app/motivationup/node_modules/instagram-node/node_modules/fwk/lib/b64.js",
+		"/C/data/vm/share/app/motivationup/node_modules/instagram-node/lib/instagram.js",
+		"/C/data/vm/share/app/motivationup/node_modules/xoauth2/src/xoauth2.js",
+		"/C/data/vm/share/app/motivationup/node_modules/nodemailer/node_modules/mailcomposer/lib/mailcomposer.js",
+		"/C/data/Dropbox/勉強会/phpcon2015/cyberagentのお話.txt",
+		"/C/data/vm/share/app/motivationup/node_modules/nodemailer/src/nodemailer.js",
+		"/C/data/vm/share/app/motivationup/node_modules/nodemailer/package.json",
+		"/C/data/vm/share/app/fm/views/index.jade",
+		"/C/data/vm/share/app/fm/views/result.jade",
+		"/C/data/vm/share/app/fm/package.json",
+		"/C/data/vm/share/app/fm/app.js",
+		"/C/data/vm/share/app/fm/node_modules/express-validator/lib/express_validator.js",
+		"/C/data/vm/share/app/socketio/app.js",
+		"/C/data/vm/share/app/socketio/index.html",
+		"/C/data/vm/share/app/blog/views/posts/show.ejs",
+		"/C/data/vm/share/app/blog/views/posts/new.ejs",
+		"/C/data/vm/share/app/blog/views/posts/index.ejs",
+		"/C/data/vm/share/app/blog/routes/post.js",
+		"/C/data/vm/share/app/blog/views/posts/edit.ejs",
+		"/C/data/vm/share/app/blog/app.js",
+		"/C/data/vm/share/app/blog/views/footer.ejs",
+		"/C/data/vm/share/app/blog/views/header.ejs",
+		"/C/data/vm/share/app/myapp/public/hello.txt",
+		"/C/data/vm/share/app/myapp/views/new.ejs",
+		"/C/data/vm/share/app/blog/views/post/index.ejs",
+		"/C/data/vm/share/app/myapp/about.txt",
+		"/C/data/vm/share/app/myapp/app.js",
+		"/C/data/vm/share/app/myapp/views/indes.ejs",
+		"/C/data/vm/share/app/public_html/hello.ejs",
+		"/C/data/vm/share/app/sample/package.json",
+		"/C/data/vm/share/app/node_modules/express/package.json",
+		"/C/data/vm/share/app/sample/node_modules/express/lib/view.js",
+		"/C/data/vm/share/app/sample/node_modules/express/index.js",
+		"/C/data/vm/share/app/sample/app.js",
+		"/C/data/vm/share/app/hello.js",
+		"/C/data/vm/share/app/public_html/hello.html",
+		"/C/data/vm/share/app/public_html/bbs.ejs",
+		"/C/data/vm/share/app/settings.js",
+		"/C/data/vm/share/app/mongo.js",
+		"/C/data/vm/share/app/sample/routes/index.js",
+		"/G/isss.jp/libs/app/action/user/order/Order_Conf.php",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_checkup_order_edit.tpl",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_staff/Staff_Conf.php",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_checkup/Order_Edit.php",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_checkup/Order_Conf.php",
+		"/G/isss.jp/libs/app/view/admin_shop/manage_checkup/Order_Edit.php",
+		"/G/isss.jp/libs/app/admin_shop/AdminShop_ManageStaffClass.php",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_staff_detail.tpl",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_staff_edit.tpl",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_staff_conf.tpl",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_staff_list.tpl",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_staff/Staff_Edit.php",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_staff/Staff_New.php",
+		"/G/isss.jp/libs/app/action/admin_shop/manage_staff/Staff_Complete.php",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_menu.tpl",
+		"/C/Windows/System32/drivers/etc/lmhosts",
+		"/R/nn-s-sakamoto.jp/libs/app/action/admin/test/DecoMail.php",
+		"/G/hanako39.jp/httpdocs/front.php",
+		"/G/isss.jp/httpdocs/front.php",
+		"/G/isss.jp/subdomains/m/httpdocs/front.php",
+		"/G/isss.jp/libs/app/admin_checkup/InspectResultsImport.Class.php",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_checkup_hospital_list.tpl",
+		"/G/isss.jp/libs/template/ja/admin_shop/isss_admin_shop_manage_checkup_hospital_detail.tpl",
+		"/G/isss.jp/libs/template/ja/admin_checkup/isss_admin_checkup_results_check_conf.tpl",
+		"/C/data/vm/share/test.js",
+		"/G/isss.jp/libs/lib/Front.Class.php",
+		"/G/isss.jp/__ȯ_Ķ_.txt",
+		"/R/nn-s-sakamoto.jp/libs/app/conf/Local.php",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_blog_conf.tpl",
+		"/R/nn-s-sakamoto.jp/libs/lib/Crm_Util.php",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/tpl/user_staff_head.tpl",
+		"/R/nn-s-sakamoto.jp/libs/app/action/sp_shop/staff_page/blog/Blog_Conf.php",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/tpl/user_staff_nav.tpl",
+		"/R/nn-s-sakamoto.jp/libs/app/action/sp_shop/staff_page/movie/Movie_Conf.php",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_movie_edit.tpl",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_blog_edit.tpl",
+		"/R/nn-s-sakamoto.jp/libs/app/action/sp_shop/staff_page/blog/Blog_Edit.php",
+		"/R/nn-s-sakamoto.jp/httpdocs/js_sp_admin/browser_back.js",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_fuuzoku_member_mypage_tweet_response.tpl",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_fuuzoku_member_mypage_tweet_res_list.tpl",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_fuuzoku_member_mypage_tweet.tpl",
+		"/R/nn-s-sakamoto.jp/libs/app/action_cli/admin/batch_blog_upload.php",
+		"/R/nn-s-sakamoto.jp/libs/lib/Crm_ActionClass.php",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_staff_blog_details.tpl",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_staff_blog_comments.tpl",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_staff_movie_comments.tpl",
+		"/R/yon/libs/template/ja/mobi_fuuzoku/nnn_mobi_db_master_error.tpl",
+		"/C/data/vm/share/data/new.js",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_favorite_tweet_detail.tpl",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_favorite_tweet.tpl",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_shop_blog_edit.tpl",
+		"/R/nn-s-sakamoto.jp/libs/template/ja/sp_shop/nns_sp_shop_staff_page_fuuzoku_blog.tpl",
+		"/R/nn-s-sakamoto.jp/libs/app/sp_shop/Sp_shop_FavoriteActionClass.php",
+		"/R/nn-s-sakamoto.jp/libs/lib/Db/Tw_T_read_tweet.php",
+		"/R/yon/libs/lib/Db/Tw_T_read_tweet.php",
+		"/R/nn-s-sakamoto.jp/libs/lib/Db/Community_User_Relation.php",
+		"/R/yon/libs/template/ja/sp_fuuzoku/tpl/user_staff_data.tpl",
+		"/R/nn-s-sakamoto.jp/libs/etc/sp_shop-ini.php",
+		"/R/yon/libs/etc/mobi_fuuzoku-ini.php",
+		"/R/yon/libs/app/mobi_fuuzoku/Mobi_fuuzoku_StaffActionClass.php",
+		"/R/nn-s-sakamoto.jp/libs/app/sp_shop/Sp_shop_ActionClass.php",
+		"/R/nn-s-sakamoto.jp/libs/app/sp_shop/Sp_shop_StaffPageActionClass.php",
+		"/R/nn-s-sakamoto.jp/libs/lib/Db/M_shop.php",
+		"/C/data/Dropbox/kiji.php",
+		"/R/nn-s-sakamoto.jp/libs/app/action/admin_shop/shop_info/top/Shop.php",
+		"/R/yon/libs/app/fuuzoku/Fuuzoku_StaffActionClass.php",
+		"/R/yon/libs/app/action/mobi_fuuzoku/mypage/Tweet_Complete.php",
+		"/C/data/vm/share/tests/MyFirstTest.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\data\\vm\\share\\app\\motivationup\\node_modules\\nodemailer",
+			"G:\\isss.jp\\libs\\template\\ja",
+			"G:\\isss.jp\\libs\\app",
+			"G:\\isss.jp\\libs\\template\\ja\\admin_shop",
+			"G:\\isss.jp\\libs\\template\\ja",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\template\\ja\\sp_fuuzoku\\tpl",
+			"R:\\yon\\libs\\template\\ja\\mobi_night",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\mobi_admin_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\template",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\mobi_admin_shop",
+			"R:\\yon\\libs\\template\\ja\\mobi_fuuzoku",
+			"R:\\yon\\libs\\app\\action\\mobi_fuuzoku",
+			"R:\\yon\\libs\\template\\ja\\mobi_fuuzoku",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop",
+			"K:\\fmniigata-sakamoto.com\\libs\\Ethna\\class",
+			"K:\\fmniigata-sakamoto.com\\libs\\lib",
+			"K:\\fmniigata-sakamoto.com\\libs\\Ethna\\class",
+			"R:\\yon\\libs\\app\\mobi_fuuzoku",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\app\\mobi_fuuzoku",
+			"R:\\yon\\libs\\app\\action\\mobi_fuuzoku",
+			"R:\\yon\\libs\\app\\conf",
+			"K:\\fmniigata-sakamoto.com\\libs\\app",
+			"K:\\fmniigata-sakamoto.com\\libs\\lib",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\mobi_admin_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\yon\\libs\\app\\action\\fuuzoku",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action_cli\\admin",
+			"R:\\yon\\libs\\template\\ja\\mobi_fuuzoku",
+			"R:\\yon\\libs\\template\\ja\\mobi_fuuzoku\\tpl",
+			"R:\\yon\\libs\\template\\ja",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop\\staff_page\\favorite",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja",
+			"T:\\komeya-gen.com\\data\\Smarty\\templates\\default\\mail_templates",
+			"T:\\komeya-gen.com\\data",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\conf",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs",
+			"R:\\yon\\libs\\template\\ja",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\yon\\libs\\lib\\Db",
+			"R:\\yon\\libs\\template\\ja\\fuuzoku",
+			"R:\\yon\\libs\\app\\view\\fuuzoku",
+			"R:\\yon\\libs\\app\\view\\mobi_fuuzoku",
+			"R:\\yon\\libs\\Ethna\\class",
+			"T:\\tsm-japan.com\\httpdocs",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"K:\\fmniigata-sakamoto.com\\libs\\template\\ja",
+			"R:\\yon\\libs\\template\\ja",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja",
+			"R:\\yon\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\admin_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\mobi_admin_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\view",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action",
+			"R:\\nn-s-sakamoto.jp\\libs\\app",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\sp_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\lib",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\tpl",
+			"R:\\yon\\libs\\template\\ja\\fuuzoku\\tpl_2014",
+			"R:\\yon\\libs\\template\\ja\\sp_fuuzoku\\tpl",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop",
+			"R:\\yon\\libs\\template\\ja\\fuuzoku\\tpl_2014",
+			"R:\\yon\\libs\\lib",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\Smarty",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop\\staff_page\\favorite",
+			"R:\\yon\\libs\\app\\view\\fuuzoku\\mypage",
+			"R:\\yon\\libs\\app\\action\\fuuzoku\\mypage",
+			"R:\\yon\\libs\\app\\action\\mobi_fuuzoku\\mypage",
+			"R:\\yon\\libs\\app\\view\\mobi_fuuzoku\\mypage",
+			"R:\\yon\\libs\\app\\action\\mobi_fuuzoku\\mypage",
+			"R:\\yon\\libs\\template\\ja\\sp_fuuzoku\\tpl",
+			"R:\\yon\\httpdocs\\js",
+			"R:\\yon\\httpdocs\\js_fuuzoku",
+			"R:\\yon\\libs\\template\\ja\\fuuzoku",
+			"R:\\yon\\libs\\template\\ja\\sp_fuuzoku",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\conf",
+			"R:\\nn-s-sakamoto.jp\\httpdocs\\js_sp_admin",
+			"R:\\nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\admin_shop",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop",
+			"R:\\yon\\libs\\template\\ja\\fuuzoku",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\mobi_admin_shop\\mail",
+			"R:\\nn-s-sakamoto.jp\\libs\\template\\ja\\admin_shop\\mail",
+			"R:\\yon\\libs\\template\\ja\\sp_fuuzoku\\tpl",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\lib",
+			"R:\\yon\\libs\\app",
+			"R:\\yon\\libs\\lib\\Db",
+			"R:\\yon\\libs\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"db3",
+			"motivationup",
+			"_sendCommand",
+			"_handleXOauth2Token",
+			"xoauth",
+			"getToken",
+			"generateToken",
+			"update",
+			"token",
+			"postRequest",
+			"compile",
+			"res_index",
+			"0",
+			"hh",
+			"betweenWhete",
+			"startWhere",
+			"start_date",
+			"hh:mmss",
+			"start_date",
+			"	console.log(\"checkparam\");\n",
+			"assert",
+			"socket",
+			"chat",
+			"msg",
+			"title",
+			"hello",
+			"bInvalidRequired",
+			"chkError",
+			"order_count",
+			"    \n",
+			"importFormSession",
+			"add_J_shop_staff",
+			"    \n",
+			"return_s_detail",
+			"            ",
+			"return_s_detail",
+			"manage_staff_edit",
+			"manage_staff_new",
+			"manage_staff_list",
+			"生年月日",
+			"staff_birthday",
+			"staff_birthday_Month",
+			"生年月日",
+			"staff_birthday_Year",
+			"氏名",
+			"staff_kana",
+			"氏名",
+			"staff_name",
+			"氏名",
+			"    \n",
+			"staff_birthday",
+			"'staff_birthday",
+			"staff_birthday",
+			"        \n",
+			"                        'regexp_error'   => 'regexp_error'      // 文字種エラー",
+			"                        'required_error' => 'required_error',   // 必須エラー\n                        'type_error'     => 'type_error',       // 入力値型エラー\n                        'min_error'      => 'min_error',        // 最小値エラー",
+			"                        'form_type' => FORM_TYPE_TEXT,  // フォーム型\n                        'type'      => VAR_TYPE_STRING, // 入力値型",
+			"                        'regexp'    => null,            // 文字種指定(正規表現)\n                        'custom'    => null,            // メソッドによるチェック\n                        'filter'    => null,            // 入力値変換フィルタオプション",
+			"true,",
+			"氏名",
+			"staff_name",
+			"s_staff_alias_name",
+			"staff_name",
+			"        \n",
+			"            \n",
+			"            ",
+			"same_pref_list",
+			"hospital_name",
+			"check_detail_judg_id",
+			"res_details_item_judged",
+			"(+)",
+			"\"-\"",
+			"check_detail_judg_id",
+			"res_details_item_value",
+			"result_judged",
+			"movie_title",
+			"blog_",
+			"blog_comment",
+			"blog_title",
+			"　",
+			"blog_comment",
+			"(\"blog_comment\")",
+			"blog_title",
+			"new",
+			"btn",
+			"e_blog_",
+			"e_blog_e",
+			"strEncodeEntitiesPost",
+			"str",
+			"前へ",
+			"response",
+			"削除",
+			"ChkEmojiMax",
+			"prePurifierComment",
+			"fake",
+			"to",
+			"puri",
+			"blog_comment_chenge_img",
+			"blog_comm",
+			"1",
+			"secret_tweet",
+			"blog_comment",
+			"blog_comment_chenge_img",
+			"$this->af->setApp('blog_comment_chenge_img'",
+			"blog_comment",
+			"899",
+			"getNotifyCentre",
+			"chkShopStaff",
+			"nCategoryId",
+			"chkShopStaff",
+			"$nCategoryId",
+			"bSiteShopMain",
+			"main",
+			"getShopData",
+			"\"M_shop\",",
+			"setApp(\"M_shop\"",
+			"M_shop",
+			"arMshop",
+			"setApp(\"M_shop\"",
+			"arFavRank",
+			"M_shop",
+			"Mshop",
+			"$arMshop",
+			"arFavRank",
+			"nStaffDetailsId",
+			"intDate",
+			"arFavRank",
+			"ranking"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			"　",
+			"\\n",
+			"<br />",
+			"</div><br />",
+			"<@yn>",
+			"</div@br>",
+			"<br />",
+			"</div><br />",
+			"<br />",
+			"</div@br>",
+			"<br />",
+			"</div><br />",
+			"<@yn>",
+			"</div@n>",
+			"</div@br>",
+			" VALUES (8, 13,",
+			" into",
+			"",
+			"');",
+			"gallery",
+			"i",
+			"prof",
+			" niiwaka_youtube_full_url",
+			" ",
+			"=>",
+			" ",
+			"new cusClass();",
+			"192.168.1.86",
+			"yon",
+			">\\n",
+			"\");",
+			"",
+			"type=\"submit\"",
+			"",
+			"\\\\n\\n",
+			"\\n\\n",
+			"",
+			"getURL",
+			"F_start_blog_id",
+			"",
+			"sakamoto",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2665,
+								2665
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/my.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4623,
+								4623
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/data/vm/share/app/yama/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/data/vm/share/app/yama/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 56.0
+	},
+	"output.find_results":
+	{
+		"height": 809.0
+	},
+	"output.markdown":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"project": "yama.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"checkordertpl",
+				"libs\\template\\ja\\admin_shop\\isss_admin_shop_manage_checkup_order_edit.tpl"
+			],
+			[
+				"ordered",
+				"libs\\app\\view\\admin_shop\\manage_checkup\\Order_Edit.php"
+			],
+			[
+				"staffconftpl",
+				"libs\\template\\ja\\admin_shop\\isss_admin_shop_manage_staff_conf.tpl"
+			],
+			[
+				"staffconf",
+				"libs\\app\\action\\admin_shop\\manage_staff\\Staff_Conf.php"
+			],
+			[
+				"staffnew",
+				"libs\\app\\action\\admin_shop\\manage_staff\\Staff_New.php"
+			],
+			[
+				"staffediphp",
+				"libs\\app\\action\\admin_shop\\manage_staff\\Staff_Edit.php"
+			],
+			[
+				"staffedittpl",
+				"libs\\template\\ja\\admin_shop\\isss_admin_shop_manage_staff_edit.tpl"
+			],
+			[
+				"testdeco",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\admin\\test\\DecoMail.php"
+			],
+			[
+				"testdecomail",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\admin\\test\\DecoMail.php"
+			],
+			[
+				"pagebogcon",
+				"nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_blog_conf.tpl"
+			],
+			[
+				"sp_shopblogeditphp",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop\\staff_page\\blog\\Blog_Edit.php"
+			],
+			[
+				"crmutil",
+				"nn-s-sakamoto.jp\\libs\\lib\\Crm_Util.php"
+			],
+			[
+				"spstaffblogconftp",
+				"nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_blog_conf.tpl"
+			],
+			[
+				"/sp/blogconf",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop\\staff_page\\blog\\Blog_Conf.php"
+			],
+			[
+				"blogedittpl",
+				"nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_blog_edit.tpl"
+			],
+			[
+				"blogconf",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\sp_shop\\staff_page\\blog\\Blog_Conf.php"
+			],
+			[
+				"twtre",
+				"yon\\libs\\lib\\Db\\Tw_T_read_tweet.php"
+			],
+			[
+				"loca",
+				"nn-s-sakamoto.jp\\libs\\app\\conf\\Local.php"
+			],
+			[
+				"spshop",
+				"nn-s-sakamoto.jp\\libs\\etc\\sp_shop-ini.php"
+			],
+			[
+				"mobifuuzok",
+				"yon\\libs\\etc\\mobi_fuuzoku-ini.php"
+			],
+			[
+				"mobimypagetweere",
+				"yon\\libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_fuuzoku_member_mypage_tweet_response.tpl"
+			],
+			[
+				"tweetcompletephp",
+				"yon\\libs\\app\\action\\mobi_fuuzoku\\mypage\\Tweet_Complete.php"
+			],
+			[
+				"mypage_tweet_response.tpl",
+				"yon\\libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_fuuzoku_member_mypage_tweet_response.tpl"
+			],
+			[
+				"res_list.tpl",
+				"yon\\libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_fuuzoku_member_mypage_tweet_res_list.tpl"
+			],
+			[
+				"saff_blog_comme",
+				"yon\\libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_staff_blog_comments.tpl"
+			],
+			[
+				"staffblogdetail",
+				"yon\\libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_staff_blog_details.tpl"
+			],
+			[
+				"local",
+				"yon\\libs\\app\\conf\\Local.php"
+			],
+			[
+				"night",
+				"yon\\libs\\etc\\night-ini.php"
+			],
+			[
+				"crmac",
+				"nn-s-sakamoto.jp\\libs\\lib\\Crm_ActionClass.php"
+			],
+			[
+				"vitwelist",
+				"nn-s-sakamoto.jp\\libs\\app\\view\\mobi_admin_shop\\staff_page\\favorite\\viewTweet_Res_List.php"
+			],
+			[
+				"acttwelis",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite\\actTweet_Res_List.php"
+			],
+			[
+				"mobiacttw",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\mobi_admin_shop\\staff_page\\favorite\\actTweet.php"
+			],
+			[
+				"sitecon",
+				"nn-s-sakamoto.jp\\libs\\app\\conf\\Site_Constant.php"
+			],
+			[
+				"siteco",
+				"libs\\app\\conf\\Site_Constant.php"
+			],
+			[
+				"mmmre",
+				"libs\\lib\\Db\\MMM_reputation.php"
+			],
+			[
+				"blogdeaphp",
+				"libs\\app\\view\\fuuzoku\\staff\\Blog_Details.php"
+			],
+			[
+				"moblogdetailtpl",
+				"libs\\template\\ja\\mobi_fuuzoku\\nnn_mobi_staff_blog_details.tpl"
+			],
+			[
+				"fuzokuini",
+				"libs\\etc\\mobi_fuuzoku-ini.php"
+			],
+			[
+				"fuuzokuini",
+				"libs\\etc\\fuuzoku-ini.php"
+			],
+			[
+				"userpage",
+				"libs\\template\\ja\\mobi_fuuzoku\\tpl\\user_pager.tpl"
+			],
+			[
+				"etc/mobi",
+				"libs\\etc\\mobi_fuuzoku-ini.php"
+			],
+			[
+				"fuuzoku_staff.t",
+				"template\\ja\\fuuzoku\\nnn_pc_fuuzoku_staff.tpl"
+			],
+			[
+				"decom",
+				"nn-s-sakamoto.jp\\libs\\app\\action\\admin\\test\\DecoMail.php"
+			],
+			[
+				"stafftweettpl",
+				"nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_tweet_data.tpl"
+			],
+			[
+				"add_listtpl",
+				"nn-s-sakamoto.jp\\libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_add_list.tpl"
+			],
+			[
+				"agreement",
+				"libs\\template\\ja\\sp_shop\\nns_sp_shop_agreement_fuuzoku.tpl"
+			],
+			[
+				"agreemen",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_agreement_fuuzoku.tpl"
+			],
+			[
+				"sppagegramgr",
+				"libs\\template\\ja\\sp_shop\\nns_sp_shop_staff_page_gravure_mgr.tpl"
+			],
+			[
+				"2014/user_shop",
+				"libs\\template\\ja\\admin_shop\\tpl_2014\\user_shop_header.tpl"
+			],
+			[
+				"staff_page_menu_night.",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_staff_page_menu_night.tpl"
+			],
+			[
+				"admin_shop_shop_info_schedu",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_shop_info_schedule_mgr.tpl"
+			],
+			[
+				"tweet.tpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_tweet.tpl"
+			],
+			[
+				"spuserstaffnav",
+				"template\\ja\\sp_shop\\tpl\\user_staff_nav.tpl"
+			],
+			[
+				"userstaffheader",
+				"template\\ja\\sp_shop\\tpl\\user_staff_header.tpl"
+			],
+			[
+				"spstafheadtpl",
+				"template\\ja\\sp_shop\\tpl\\user_staff_head.tpl"
+			],
+			[
+				"favmenutpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_menu.tpl"
+			],
+			[
+				"addlisttpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_add_list.tpl"
+			],
+			[
+				"poketpl",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_pokepara_poke_edit.tpl"
+			],
+			[
+				"pokeed",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_pokepara_poke_edit.tpl"
+			],
+			[
+				"nnnutil",
+				"lib\\NNN_Util.php"
+			],
+			[
+				"tweettpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_tweet.tpl"
+			],
+			[
+				"tweedattpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_tweet_data.tpl"
+			],
+			[
+				"favtetpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_tweet.tpl"
+			],
+			[
+				"favtpl",
+				"template\\ja\\sp_shop\\nns_sp_shop_staff_page_favorite_menu.tpl"
+			],
+			[
+				"popuptpl",
+				"libs\\template\\ja\\fuuzoku\\nnn_pc_fuuzoku_favorite_member_popup.tpl"
+			],
+			[
+				"mmemb",
+				"libs\\lib\\Db\\M_member.php"
+			],
+			[
+				"tplshophead",
+				"libs\\template\\ja\\fuuzoku\\tpl_2014\\user_shop_header.tpl"
+			],
+			[
+				"tplshophea",
+				"libs\\template\\ja\\fuuzoku\\tpl_2014\\shop_head.tpl"
+			],
+			[
+				"shopshoptp",
+				"libs\\template\\ja\\fuuzoku\\nnn_pc_shop_shop.tpl"
+			],
+			[
+				"counttpl",
+				"libs\\template\\ja\\admin\\nns_admin_manage_area_top_banner_count.tpl"
+			],
+			[
+				"pokeconftpl",
+				"libs\\template\\ja\\admin_shop\\nns_admin_shop_shop_info_staff_poke_conf.tpl"
+			],
+			[
+				"adminac",
+				"libs\\app\\admin\\Admin_ActionClass.php"
+			],
+			[
+				"indextpl",
+				"libs\\template\\ja\\fm_pc_index.tpl"
+			],
+			[
+				"programend",
+				"libs\\app\\action\\admin\\ProgramEnd.php"
+			],
+			[
+				"custodetaiphp",
+				"yusyo-gnagent\\libs\\app\\action\\admin\\customer\\Detail.php"
+			],
+			[
+				"bucompl",
+				"libs\\template\\ja\\user\\yusyo_pc_buy_complete.tpl"
+			],
+			[
+				"buyconf",
+				"libs\\template\\ja\\user\\yusyo_pc_buy_conf.tpl"
+			],
+			[
+				"cartdetail",
+				"libs\\template\\ja\\user\\yusyo_pc_cart_detail.tpl"
+			],
+			[
+				"machinede",
+				"libs\\template\\ja\\user\\yusyo_pc_machine_detail2.tpl"
+			],
+			[
+				"custmoredi",
+				"libs\\template\\ja\\admin\\yusyo_admin_customer_edit2.tpl"
+			],
+			[
+				"staffconfphp",
+				"app\\action\\admin_shop\\shop_info\\staff\\Conf.php"
+			],
+			[
+				"staffnewphp",
+				"app\\action\\admin_shop\\shop_info\\staff\\New.php"
+			],
+			[
+				"staffconf2php",
+				"app\\action\\admin_shop\\staff_page\\profile\\Prof_Conf2.php"
+			],
+			[
+				"mobiadmshinfostatpl",
+				"template\\ja\\mobi_admin_shop\\nns_mobi_admin_shop_shop_info_staff_new.tpl"
+			],
+			[
+				"spstaffedittpl",
+				"template\\ja\\admin_shop\\nns_admin_shop_staff_page_prof_edit.tpl"
+			],
+			[
+				"spshopprofedit",
+				"template\\ja\\sp_shop\\nns_sp_shop_shop_info_prof_edit_conf.tpl"
+			],
+			[
+				"mobiprofiedtpl",
+				"template\\ja\\mobi_admin_shop\\nns_mobi_admin_shop_staff_page_profile_edit.tpl"
+			],
+			[
+				"profileconfphp",
+				"app\\action\\mobi_admin_shop\\staff_page\\profile\\Profile_Conf.php"
+			],
+			[
+				"staffprofedittpl",
+				"template\\ja\\admin_shop\\nns_admin_shop_staff_page_profqa_edit.tpl"
+			],
+			[
+				"staffprofile",
+				"template\\ja\\admin_shop\\nns_admin_shop_staff_page_profile_conf.tpl"
+			],
+			[
+				"aliastpl",
+				"template\\ja\\admin_shop\\nns_admin_shop_shop_info_staff_alias_add.tpl"
+			],
+			[
+				"staffprof2",
+				"template\\ja\\admin_shop\\nns_admin_shop_staff_page_prof_edit2.tpl"
+			],
+			[
+				"shopstaffnew",
+				"template\\ja\\admin_shop\\nns_admin_shop_shop_info_staff_new.tpl"
+			],
+			[
+				"shopinfostaffedit",
+				"template\\ja\\admin_shop\\nns_admin_shop_shop_info_staff_login_info_edit.tpl"
+			],
+			[
+				"shopinfostaffcon",
+				"template\\ja\\admin_shop\\nns_admin_shop_shop_info_staff_conf.tpl"
+			],
+			[
+				"shopstaffconf",
+				"template\\ja\\admin_shop\\nns_admin_shop_staff_page_blog_conf.tpl"
+			],
+			[
+				"mmmrep",
+				"lib\\Db\\MMM_reputation.php"
+			],
+			[
+				"preseedittpl",
+				"libs\\template\\ja\\fm_admin_listener_present_edit.tpl"
+			],
+			[
+				"listpro",
+				"libs\\app\\view\\admin\\ListenerProfile.php"
+			],
+			[
+				"amadsearch",
+				"libs\\template\\ja\\fm_admin_listener_search.tpl"
+			],
+			[
+				"searchtpl",
+				"libs\\template\\ja\\fm_admin_listener_search.tpl"
+			],
+			[
+				"adminavitpl",
+				"libs\\template\\ja\\tpl\\fm_admin_navi.tpl"
+			],
+			[
+				"staff_mantpl",
+				"libs\\template\\ja\\fm_admin_staff_manage.tpl"
+			],
+			[
+				"tpl/fm_admin_header",
+				"libs\\template\\ja\\tpl\\fm_admin_header.tpl"
+			],
+			[
+				"fmadminav",
+				"libs\\template\\ja\\tpl\\fm_admin_navi.tpl"
+			],
+			[
+				"adminmenutpl",
+				"libs\\template\\ja\\tpl\\fm_admin_menu.tpl"
+			],
+			[
+				"menutpl",
+				"libs\\template\\ja\\tpl\\fm_menu.tpl"
+			],
+			[
+				"admconcediphp",
+				"libs\\app\\action\\admin\\ConcertEdit.php"
+			],
+			[
+				"liprotpl",
+				"libs\\template\\ja\\fm_admin_listener_profile.tpl"
+			],
+			[
+				"actionconcer",
+				"libs\\app\\action\\admin\\ConcertEdit.php"
+			],
+			[
+				"adminconcerttpl",
+				"libs\\template\\ja\\fm_admin_concert_edit.tpl"
+			],
+			[
+				"admincons",
+				"libs\\app\\admin\\Admin_ConcertActionClass.php"
+			],
+			[
+				"conceredipl",
+				"libs\\template\\ja\\fm_admin_concert_edit.tpl"
+			],
+			[
+				"lisedi",
+				"libs\\template\\ja\\fm_admin_listener_present_edit.tpl"
+			],
+			[
+				"affilia",
+				"libs\\app\\admin\\Admin_AffiliateActionClass.php"
+			],
+			[
+				"parprescon",
+				"libs\\app\\action\\admin\\PartsPresentConf.php"
+			],
+			[
+				"listeditpl",
+				"libs\\template\\ja\\fm_admin_listener_present_edit.tpl"
+			],
+			[
+				"listprofil",
+				"libs\\template\\ja\\fm_admin_listener_profile.tpl"
+			],
+			[
+				"lissear",
+				"libs\\app\\view\\admin\\ListenerSearch.php"
+			],
+			[
+				"printphp",
+				"libs\\app\\view\\admin\\ListenerPrint.php"
+			],
+			[
+				"printtpl",
+				"libs\\template\\ja\\fm_admin_listener_print.tpl"
+			],
+			[
+				"liteneseatpl",
+				"libs\\template\\ja\\fm_admin_listener_search.tpl"
+			],
+			[
+				"litenesea",
+				"libs\\app\\action\\admin\\ListenerSearch.php"
+			],
+			[
+				"listenpriphp",
+				"libs\\app\\view\\admin\\ListenerPrint.php"
+			],
+			[
+				"listeprintpl",
+				"libs\\template\\ja\\fm_admin_listener_print.tpl"
+			],
+			[
+				"navipl",
+				"libs\\template\\ja\\tpl\\fm_admin_navi.tpl"
+			],
+			[
+				"listensea",
+				"libs\\app\\view\\admin\\ListenerSearch.php"
+			],
+			[
+				"lieditpl",
+				"libs\\template\\ja\\fm_admin_listener_present_edit.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 532.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 532.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 425.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
