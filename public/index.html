@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>山の天気</title>
+    <title>やまびよ新潟版</title>
+    <meta desctiption='新潟の山の登山快適指数を見やすくするWebサービスです。'>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/bootstrap-xxs-1.0.1.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker.standalone.min.css">
@@ -101,43 +102,68 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/locales/bootstrap-datepicker.ja.min.js"></script>
     <script type="text/javascript">
     var ajaxLock = false;
+
+    var yamabiyo = {
+      today: (function(){return new Date();})(),
+      overnight: 21,
+      overmorning: 12,
+      pickIndex: function(intDayIndex, chkhour){
+        return this.today.getHours() >= chkhour ? intDayIndex : intDayIndex -1;
+      },
+      startDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(1, this.overmorning))},
+      endDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(7, this.overnight))},
+      searchDay: null,
+      searchDayIndex: null,
+      getSearchDay: function(){
+        this.searchDay = $("#dp1").datepicker('getDate');
+        this.searchDayIndex = Math.ceil((this.searchDay.getTime() - this.today.getTime()) / (60 * 60 * 24 * 1000));
+        return this.searchDay;
+      },
+      eqIndex: function(){
+        var nightValue = this.today.getHours() >= this.overnight ? -1 : 0;
+        switch(this.searchDayIndex){
+          case 0:
+          case 1:
+            return this.searchDayIndex + nightValue;
+            break;
+          default:
+            return this.searchDayIndex + 1 +nightValue;
+        }
+      },
+      yamabiyoAjax: function(elem, index, array){
+        self = this
+        var apiPath = '/search/?mount=';
+        setTimeout(function(){
+          $.ajax({
+            url:apiPath + elem.code
+          }).done(function(data){
+            var imgSrc = $(data).filter('td').eq(self.eqIndex()).find('img').attr('src');
+            $('.' + elem.code).find('img.weather').attr('src', imgSrc);
+          }).fail(
+          ).always(function(){
+            if(array.length -1 === index) ajaxLock = false;
+          });
+        }, index * 300);
+      }
+    }
+
     $(function(){
-      var today = new Date();
       $('#dp1').datepicker({
           format: 'mm月dd日',
-          startDate: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1),
-          endDate: new Date(today.getFullYear(), today.getMonth(), today.getDate() + 6),
+          startDate: yamabiyo.startDate(),
+          endDate: yamabiyo.endDate(),
           language: 'ja',
           orientation: "top",
           autoclose: true,
           disableTouchKeyboard:true
       });
 
-      var searchPage = function(elem, index, array){
-        var self = this;
-        var apiPath = '/search/?mount=';
-        var geteq = self.day === 1 ? 0 : self.day ;
-        setTimeout(function(){
-          $.get(apiPath + elem.code, {} , function(data){
-            var imgSrc = $(data).filter('td').eq(geteq).find('img').attr('src');
-            $('.' + elem.code).find('img.weather').attr('src', imgSrc);
-            if(array.length -1 === index){
-             ajaxLock = false;
-            }
-          });
-        }, index * 300);
-
-      }
-
       $("#dateSearchBot").on('click', function(){
         if(ajaxLock === true) return false;
         ajaxLock = true;
-        var searchDay = $("#dp1").datepicker('getDate');
-        if(typeof searchDay === 'undefined') return false;
+        if(typeof yamabiyo.getSearchDay() === 'undefined') return false;
         $('.div-round img').attr('src', '/img/loading.gif');
-        var today = new Date();
-        var intervalDay = Math.ceil((searchDay.getTime() - today.getTime()) / (60 * 60 * 24 * 1000));
-        mtArr.forEach(searchPage,{day:intervalDay});
+        mtArr.forEach(yamabiyo.yamabiyoAjax,yamabiyo);
         var mainTop = $('#main').offset().top;
         $('body').animate({scrollTop: mainTop});
       });

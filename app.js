@@ -16,8 +16,9 @@ app.get('/search/', function(req, res){
 			} else {
 				var gotHtml = $(".kad_tbl2").eq(2).find("tr.t_w.mnt_td").html();
 				if(gotHtml){
+					var today = $(".kad_tbl2").eq(0).find("tr.t_w.mnt_td td").eq(4).clone();
 					var tomorrow = $(".kad_tbl2").eq(1).find("tr.t_w.mnt_td td").eq(4).clone();
-					var retStr = (tomorrow + gotHtml).replace(/src=".*tozan\//g, 'src="/img/');
+					var retStr = (today + tomorrow + gotHtml).replace(/src=".*?tozan\//g, 'src="/img/');
 					res.status('200');
 					res.send(retStr);
 				} else {
