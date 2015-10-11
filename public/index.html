@@ -119,8 +119,8 @@
         var geteq = self.day === 1 ? 0 : self.day ;
         setTimeout(function(){
           $.get(apiPath + elem.code, {} , function(data){
-            var imgSrc = $(data).filter('td').eq(geteq).find('img').attr('src').match(".+/(.+?)([\?#;].*)?$")[1];
-            $('.' + elem.code).find('img.weather').attr('src', '/img/' + imgSrc).show();
+            var imgSrc = $(data).filter('td').eq(geteq).find('img').attr('src');
+            $('.' + elem.code).find('img.weather').attr('src', imgSrc);
             if(array.length -1 === index){
              ajaxLock = false;
             }

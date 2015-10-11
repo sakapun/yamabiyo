@@ -17,8 +17,9 @@ app.get('/search/', function(req, res){
 				var gotHtml = $(".kad_tbl2").eq(2).find("tr.t_w.mnt_td").html();
 				if(gotHtml){
 					var tomorrow = $(".kad_tbl2").eq(1).find("tr.t_w.mnt_td td").eq(4).clone();
+					var retStr = (tomorrow + gotHtml).replace(/src=".*tozan\//g, 'src="/img/');
 					res.status('200');
-					res.send(tomorrow + gotHtml );
+					res.send(retStr);
 				} else {
 					res.status('403');
 					console.log(req.query.mount);
