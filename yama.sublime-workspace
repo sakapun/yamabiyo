@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"mainTop"
+			],
+			[
+				"get",
+				"geteq"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"aja",
+				"ajaxLock"
+			],
+			[
 				"di",
 				"display"
 			],
@@ -14,10 +34,6 @@
 			[
 				"img",
 				"imgSrc"
-			],
-			[
-				"mar",
-				"margin-bottom"
 			],
 			[
 				"ta",
@@ -498,22 +514,6 @@
 			[
 				"Comu",
 				"Community_User_Relation"
-			],
-			[
-				"field",
-				"fieldId"
-			],
-			[
-				"okini",
-				"okiniCountChange"
-			],
-			[
-				"user_rela",
-				"user_relation_regist_datetime"
-			],
-			[
-				"Com",
-				"Community_User"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 9303,
+				"buffer_size": 10066,
 				"line_ending": "Windows"
 			}
 		},
@@ -531,7 +531,15 @@
 			"file": "public/css/my.css",
 			"settings":
 			{
-				"buffer_size": 563,
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 165168,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +547,15 @@
 			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 867,
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Procfile",
+			"settings":
+			{
+				"buffer_size": 13,
 				"line_ending": "Windows"
 			}
 		},
@@ -547,7 +563,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 511,
+				"buffer_size": 469,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +571,7 @@
 			"file": ".todo.txt",
 			"settings":
 			{
-				"buffer_size": 155,
+				"buffer_size": 209,
 				"line_ending": "Windows",
 				"name": "todo"
 			}
@@ -776,6 +792,7 @@
 	},
 	"file_history":
 	[
+		"/C/data/vm/share/app/yama/public/css/bootstrap.min.css",
 		"//192.168.1.94/familystone/public_html/3691/smarty/plugins/modifier.jp_date_format.php",
 		"//192.168.1.94/familystone/public_html/3691/class/BigAppleMasterClass.php",
 		"//192.168.1.94/familystone/public_html/3691/index.php",
@@ -902,8 +919,7 @@
 		"/R/nn-s-sakamoto.jp/libs/app/sp_shop/Sp_shop_FavoriteActionClass.php",
 		"/R/nn-s-sakamoto.jp/libs/lib/Db/Tw_T_read_tweet.php",
 		"/R/yon/libs/lib/Db/Tw_T_read_tweet.php",
-		"/R/nn-s-sakamoto.jp/libs/lib/Db/Community_User_Relation.php",
-		"/R/yon/libs/template/ja/sp_fuuzoku/tpl/user_staff_data.tpl"
+		"/R/nn-s-sakamoto.jp/libs/lib/Db/Community_User_Relation.php"
 	],
 	"find":
 	{
@@ -1049,6 +1065,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@media (min-width: 768px) {",
+			"@",
+			"font-size",
+			"@",
+			",",
 			"p-rou",
 			"p-round",
 			"\"",
@@ -1171,12 +1192,7 @@
 			"1",
 			"secret_tweet",
 			"blog_comment",
-			"blog_comment_chenge_img",
-			"$this->af->setApp('blog_comment_chenge_img'",
-			"blog_comment",
-			"899",
-			"getNotifyCentre",
-			"chkShopStaff"
+			"blog_comment_chenge_img"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1249,15 +1265,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9303,
+						"buffer_size": 10066,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1501,
-								1501
+								8933,
+								8933
 							]
 						],
 						"settings":
@@ -1268,7 +1284,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3339.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1280,15 +1296,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 563,
+						"buffer_size": 1056,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								561,
-								561
+								713,
+								713
 							]
 						],
 						"settings":
@@ -1299,7 +1315,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 361.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1307,19 +1323,49 @@
 				},
 				{
 					"buffer": 2,
-					"file": "app.js",
+					"file": "public/css/bootstrap.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 867,
+						"buffer_size": 165168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								853,
-								853
+								163020,
+								163020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 173611.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
 							]
 						],
 						"settings":
@@ -1332,24 +1378,52 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "package.json",
+					"buffer": 4,
+					"file": "Procfile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 511,
+						"buffer_size": 13,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								400,
-								400
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
 							]
 						],
 						"settings":
@@ -1363,24 +1437,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": ".todo.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 155,
+						"buffer_size": 209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
-								5
+								112,
+								112
 							]
 						],
 						"settings":

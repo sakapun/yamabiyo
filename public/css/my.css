@@ -14,8 +14,8 @@
 }
 
 .div-round{
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   background: #cccccc;
   display: table;
   border-radius: 50%;
@@ -24,30 +24,10 @@
   -webkit-border-radius: 50%;
   margin-bottom: 40px;
 }
-@media (min-width: 350px){
-  .div-round{
-    width: 90px;
-    height: 90px;
-  }
-}
-@media (min-width: 500px){
-  .div-round{
-    width: 100px;
-    height: 100px;
-  }
-}
+
 .div-round > * {
   display: table-cell;
   vertical-align: middle;
-}
-.mt-name {
-  font-size: 8px;
-}
-
-@media (min-width: 350px) {
-  .mt-name{
-    font-size: 1em;
-  }
 }
 
 .first_hide{
@@ -57,7 +37,7 @@
 #preload{
   visibility: hidden;
   display: none;
-  background-image: 
+  background-image:
     url("/img/loading.gif"),
     url("/img/mnt1.gif"),
     url("/img/mnt2.gif"),
