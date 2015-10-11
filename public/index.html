@@ -106,7 +106,7 @@
     var yamabiyo = {
       today: (function(){return new Date();})(),
       overnight: 21,
-      overmorning: 12,
+      overmorning: 9,
       pickIndex: function(intDayIndex, chkhour){
         return this.today.getHours() >= chkhour ? intDayIndex : intDayIndex -1;
       },
@@ -114,12 +114,14 @@
       endDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(7, this.overnight))},
       searchDay: null,
       searchDayIndex: null,
+      eqIndex:null,
       getSearchDay: function(){
         this.searchDay = $("#dp1").datepicker('getDate');
         this.searchDayIndex = Math.ceil((this.searchDay.getTime() - this.today.getTime()) / (60 * 60 * 24 * 1000));
+        this.eqIndex = this.calcIndex();
         return this.searchDay;
       },
-      eqIndex: function(){
+      calcIndex: function(){
         var nightValue = this.today.getHours() >= this.overnight ? -1 : 0;
         switch(this.searchDayIndex){
           case 0:
@@ -137,7 +139,7 @@
           $.ajax({
             url:apiPath + elem.code
           }).done(function(data){
-            var imgSrc = $(data).filter('td').eq(self.eqIndex()).find('img').attr('src');
+            var imgSrc = $(data).filter('td').eq(self.eqIndex).find('img').attr('src');
             $('.' + elem.code).find('img.weather').attr('src', imgSrc);
           }).fail(
           ).always(function(){
