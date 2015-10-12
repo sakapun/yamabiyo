@@ -89,7 +89,18 @@
         <script type="text/javascript">
         (function(){
           mtArr.forEach(function(elem, index, array){
-            document.write("<div class='col-md-2 col-sm-3 col-xs-4 col-xxs-6 "+ elem.code + "'><p class='text-center mt-name'>"+ elem.name +"<a href='" + elem.url +"' target='_blank'><span class='glyphicon glyphicon-share glyph-link'></span></a></p><div class='text-center div-round'><p><img alt='' class='weather' src='/img/base_mountain.png' data-holder-rendered='true'></p></div></div>");
+            var constentsYama = "\
+              <div class='col-md-2 col-sm-3 col-xs-4 col-xxs-6 "+ elem.code + "'>\
+                  <p class='text-center mt-name'>"
+                    + elem.name +"<a href='" + elem.url +"' target='_blank'><span class='glyphicon glyphicon-share glyph-link'></span></a>\
+                  </p>\
+                  <div class='text-center div-round'>\
+                    <p>\
+                      <img alt='' class='weather' src='/img/base_mountain.png' data-holder-rendered='true'>\
+                    </p>\
+                  </div>\
+              </div>"
+            document.write(constentsYama);
           });
         })();
         </script>
