@@ -102,16 +102,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/locales/bootstrap-datepicker.ja.min.js"></script>
     <script type="text/javascript">
     var ajaxLock = false;
-
-    var yamabiyo = {
-      today: (function(){return new Date();})(),
+    function Yamabiyo(){
+      this.today = new Date();
+    };
+    Yamabiyo.prototype = {
+      today: null,
       overnight: 21,
       overmorning: 9,
-      pickIndex: function(intDayIndex, chkhour){
-        return this.today.getHours() >= chkhour ? intDayIndex : intDayIndex -1;
+      nextWeekDisHour: 9,
+      pickIndex: function(intDayIndex, chkhour, intCHangeVar){
+        return this.today.getHours() >= chkhour ? intDayIndex + intCHangeVar : intDayIndex;
       },
-      startDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(1, this.overmorning))},
-      endDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(7, this.overnight))},
+      startDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(0, this.overmorning, 1))},
+      endDate: function(){return new Date(this.today.getFullYear(), this.today.getMonth(), this.today.getDate() + this.pickIndex(6, this.nextWeekDisHour, 1))},
       searchDay: null,
       searchDayIndex: null,
       eqIndex:null,
@@ -148,6 +151,7 @@
         }, index * 300);
       }
     }
+    var yamabiyo = new Yamabiyo();
 
     $(function(){
       $('#dp1').datepicker({
